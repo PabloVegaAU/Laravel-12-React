@@ -1,0 +1,6 @@
+export * from './actividad'
+export * from './carpeta'
+export * from './logro'
+export * from './materia'
+export * from './respuesta'
+export * from './tarea'
